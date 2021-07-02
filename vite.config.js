@@ -7,7 +7,7 @@ export default {
   build: {
     lib: {
       name: 'VueFunnelGraph',
-      formats: ['es', 'umd', 'cjs'],
+      formats: ['es', 'umd'],
       entry: join(__dirname, 'src/entry.js'),
     },
 

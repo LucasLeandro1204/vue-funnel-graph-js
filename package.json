@@ -2,9 +2,8 @@
   "name": "vue-funnel-graph-js",
   "version": "0.1.8",
   "description": "",
-  "main": "dist/vue-funnel-graph.umd.js",
-  "module": "dist/vue-funnel-graph.esm.js",
-  "unpkg": "dist/vue-funnel-graph.min.js",
+  "main": "dist/vue-funnel-graph-js.umd.js",
+  "module": "dist/vue-funnel-graph-js.esm.js",
   "browser": {
     "./sfc": "src/lib-components/vue-funnel-graph.vue"
   },
@@ -15,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/greghub/vue-funnel-graph-js.git"
+    "url": "https://github.com/LucasLeandro1204/vue-funnel-graph-js.git"
   },
   "licence": "MIT",
   "keywords": [
